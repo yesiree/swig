@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/yesiree/swig.git"
   },
-  "author": "",
+  "keywords": [
+    "build",
+    "tool",
+    "frontend"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yesiree/swig/issues"
